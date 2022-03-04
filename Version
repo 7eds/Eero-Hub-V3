@@ -1,4 +1,4 @@
-local Version = "0.2.5"
+local Version = "0.2.5 beta"
 
 if _G.Version ~= Version then
   game.Players.LocalPlayer:Kick("Outdated Script Version")
